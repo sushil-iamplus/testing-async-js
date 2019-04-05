@@ -1,0 +1,19 @@
+{
+  "name": "testing-async-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.*"
+  },
+  "author": "Sushil Singh <sushilsingh2005@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "6.0.2"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "sinon": "7.3.1"
+  }
+}
