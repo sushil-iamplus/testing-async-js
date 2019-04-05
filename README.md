@@ -1,4 +1,4 @@
-## TESING in Node.js 
+## TESTING in Node.js 
 
 * Mocha
 * Chai
